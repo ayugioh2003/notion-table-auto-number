@@ -22,7 +22,13 @@ Notion is good, but Notion table doesn't have auto-number feature, and [many peo
 
 ## Installation
 
-You have to install Stylus and then click on the install link below.
+You have to install Stylus first
+
+1. [Chrome Web Store](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
+2. [Firefox add-ons](https://addons.mozilla.org/firefox/addon/styl-us/)
+3. [Opera add-ons](https://addons.opera.com/extensions/details/stylus/)
+
+And then click on the install link below.
 
 [![install](https://img.shields.io/badge/Install%20directly%20with-Stylus-116b59.svg?longCache=true&style=flat)](https://raw.githubusercontent.com/ayugioh2003/notion-table-auto-number/main/auto-number.user.css)
 [![install](https://img.shields.io/badge/Install%20from%20UserStyles-116b59.svg?longCache=true&style=flat)](https://userstyles.world/style/3201/notion-table-auto-number)
