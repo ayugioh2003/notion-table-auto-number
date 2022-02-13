@@ -1,9 +1,14 @@
 @-moz-document domain("notion.so") {
 /* ==UserStyle==
 @name         Notion table auto-number
+@namespace    https://github.com/ayugioh2003
+@version      20220213.23.04
 @description  Let notion table has auto-number feature
-@namespace    examples
-@version      20220213.21.39
+@author       Chiu Chi Wei (https://github.com/ayugioh2003)
+@homepageURL  https://github.com/ayugioh2003/notion-table-auto-number
+@supportURL   https://github.com/ayugioh2003/notion-table-auto-number/issues
+@updateURL    https://github.com/ayugioh2003/notion-table-auto-number/notion-table-auto-number.css
+@license      MIT
 @preprocessor default
 ==/UserStyle== */
 }
