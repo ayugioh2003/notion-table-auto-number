@@ -1,6 +1,6 @@
-# Notion table bauto-number
+# Notion table auto-number
 
-Let notion table has auto-number feature
+Let notion table has auto-number rows feature
 
 [![version](https://img.shields.io/github/v/tag/ayugioh2003/notion-table-auto-number.svg?label=version&style=flat)](https://github.com/ayugioh2003/notion-table-auto-number/releases)
 [![star](https://img.shields.io/github/stars/ayugioh2003/notion-table-auto-number.svg?style=flat)](https://github.com/ayugioh2003/notion-table-auto-number/stargazers)
