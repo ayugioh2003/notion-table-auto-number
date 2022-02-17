@@ -14,17 +14,17 @@
 }
 
 @-moz-document domain("notion.so") {
-.notion-collection_view-block {
+.notion-table-view .notion-collection_view-block {
   list-style-type: none;
   counter-reset: css-counter 0; /* initializes counter to 0; use -1 for zero-based numbering */
 }
 
-.notion-collection-item {
+.notion-table-view .notion-collection-item {
   counter-increment: css-counter 1; /* Increase the counter by 1. */
   transform: translateX(-2rem);
 }
 
-.notion-collection-item:before {
+.notion-table-view .notion-collection-item:before {
   content: counter(css-counter, decimal-leading-zero) ". | "; /* Apply counter before children's content. */
   color: brown;
   width: 2rem;
